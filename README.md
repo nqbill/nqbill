@@ -69,11 +69,17 @@ class About extends Me {
 ```
 
 
-- 👋 Hi, I’m @nqbill
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
+<hr></hr>
+
+
+- <img align="center" alt="GIF" src="https://monophy.com/media/LnvIeQ3gDOkjWkTUr5/monophy.gif" width="25" /> &nbsp; I’m interested in **...** <img width="20%" align="right" alt="Github" src="https://64.media.tumblr.com/987a0d155b4030dafd3456a1362242df/tumblr_pzh5uvrMFp1ysu9wlo1_400.gifv" />
+- <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; I’m currently learning **...**
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about **...**
+- <img src="https://github.com/drraryyy/drraryyy/blob/main/img/maillbox.gif?raw=true" width="25" /> &nbsp; How to reach me **...**
+- &nbsp;&nbsp;<img align="center" src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Fun fact **...**
+
+<br><br>
 
 <!---
 nqbill/nqbill is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
