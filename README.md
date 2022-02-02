@@ -105,18 +105,18 @@ class About extends Me {
 
 <p> <strong> <em> Connect with me </em> </strong> </p>  
 
-<a  href="https://www.instagram.com/biilll.e"> <img width="25px" height = "25px" src="https://github.com/drraryyy/drraryyy/blob/main/icon/instagram.svg" alt="instagram" />
+<a  href="https://www.instagram.com/biilll.e"> <img width="20px" height = "20px" src="https://github.com/drraryyy/drraryyy/blob/main/icon/instagram.svg" alt="instagram" />
   &nbsp;&nbsp;
-<a  href="https://twitter.com/nqbill"> <img width="25px" height = "25px" src="https://github.com/drraryyy/drraryyy/blob/main/icon/twitter.svg" alt="twitter" />
+<a  href="https://twitter.com/nqbill"> <img width="20px" height = "20px" src="https://github.com/drraryyy/drraryyy/blob/main/icon/twitter.svg" alt="twitter" />
   &nbsp;&nbsp;
-<a  href="foooeadonly@gmail.com"> <img width="25px" height = "25px" src="https://github.com/drraryyy/drraryyy/blob/main/icon/gmail.svg" alt="gmail" />
+<a  href="foooeadonly@gmail.com"> <img width="20px" height = "20px" src="https://github.com/drraryyy/drraryyy/blob/main/icon/gmail.svg" alt="gmail" />
   &nbsp;&nbsp;
-<a  href="https://t.me/nqbill"> <img width="25px" height = "25px" src="https://github.com/drraryyy/drraryyy/blob/main/icon/telegram.svg" alt="telegram" />
+<a  href="https://t.me/nqbill"> <img width="20px" height = "20px" src="https://github.com/drraryyy/drraryyy/blob/main/icon/telegram.svg" alt="telegram" />
   &nbsp;&nbsp;
-<a  href="https://discord.gg/EcqDBw7PbB"> <img width="25px" height = "25px" src="https://github.com/drraryyy/drraryyy/blob/main/icon/discord.svg" alt="telegram" />
+<a  href="https://discord.gg/EcqDBw7PbB"> <img width="20px" height = "20px" src="https://github.com/drraryyy/drraryyy/blob/main/icon/discord.svg" alt="telegram" />
 
 </a>
 
 
-</div>  
+</div>
 
