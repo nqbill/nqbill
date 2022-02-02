@@ -1,7 +1,6 @@
 <div align="center">
 
 <img width="250px" height = "250px" src="https://github.com/nqbill/nqbill/blob/main/img/octo.gif" alt="cover" />
-
 <img src="https://readme-typing-svg.herokuapp.com?color=%23414141&size=40&duration=9000&center=true&width=1500&height=150&lines=Hi+guys!+I'm+nqbill;Imn't+programmer+and+that's+all" />
 
 <p><strong> Unemployed who has a dream
@@ -11,7 +10,6 @@
 [![Spotify](https://spotify-readme-nqbill.vercel.app/api/spotify)](https://open.spotify.com/user/nqbill)
 
 </div>
-
 
 <hr></hr>
 
@@ -72,18 +70,16 @@ class About extends Me {
 ```
 
 
-
 <hr></hr>
 
 
-- <img align="center" alt="GIF" src="https://github.com/nqbill/nqbill/blob/main/img/0e0a54a90658ba6995488a35585642ee.gif" width="25" /> &nbsp; I’m currently working on **[Ruang Lingkup](https://github.com/Ruang-Lingkup)** <img width="30%" align="right" alt="Github" src="https://i.pinimg.com/originals/ea/59/4f/ea594f8e77884a9f6f096bcd126e2c38.gif" />
-- <img alt="GIF" src="https://github.com/nqbill/nqbill/blob/main/img/20220203_0116521.gif" width="27" /> &nbsp; I’m currently learning **basic programming especially web, front end, back end dev as well as analyzing life and any living things**
+- <img align="center" alt="GIF" src="https://github.com/nqbill/nqbill/blob/main/img/0e0a54a90658ba6995488a35585642ee.gif?raw=true" width="25" /> &nbsp; I’m currently working on **[Ruang Lingkup](https://github.com/Ruang-Lingkup)** <img width="30%" align="right" alt="Github" src="https://i.pinimg.com/originals/ea/59/4f/ea594f8e77884a9f6f096bcd126e2c38.gif" />
+- <img alt="GIF" src="https://github.com/nqbill/nqbill/blob/main/img/20220203_0116521.gif?raw=true" width="27" /> &nbsp; I’m currently learning **basic programming especially web, front end, back end dev as well as analyzing life and any living things**
 - <img align="center" src="https://cdn.dribbble.com/users/2014359/screenshots/6008279/comment.gif" width="27" />&nbsp;&nbsp; Ask me about **programming(for beginners), philosophy and anything that isn't heavy**
 - <img src="https://github.com/drraryyy/drraryyy/blob/main/img/maillbox.gif?raw=true" width="25" /> &nbsp; How to reach me **[mail](foooeadonly@gmail.com)**
-- &nbsp;&nbsp;<img align="center" src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Fun fact **...**
+- &nbsp;&nbsp;<img align="center" src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Fun fact **The first computer “bug” was an actual real-life bug**
 
 <br><br>
-
 
 
 <div align="center" >
@@ -92,7 +88,6 @@ class About extends Me {
 <img src="https://raw.githubusercontent.com/nqbill/mycardds/master/profile-summary-card-output/vue/3-stats.svg" width="32.5%">
 <img src="https://raw.githubusercontent.com/nqbill/mycardds/master/profile-summary-card-output/vue/1-repos-per-language.svg" width="32.5%">
 <img src="https://raw.githubusercontent.com/nqbill/mycardds/master/profile-summary-card-output/vue/2-most-commit-language.svg" width="32.5%">
-<img src="https://raw.githubusercontent.com/nqbill/mycardds/master/profile-summary-card-output/vue/4-productive-time.svg" width="32.5%">
     
 </a>
     
@@ -110,28 +105,18 @@ class About extends Me {
 
 <p> <strong> <em> Connect with me </em> </strong> </p>  
 
-<a  href="https://www.instagram.com/biilll.e"> <img width="30px" height = "30px" src="https://github.com/drraryyy/drraryyy/blob/main/icon/instagram.svg" alt="instagram" />
+<a  href="https://www.instagram.com/biilll.e"> <img width="25px" height = "25px" src="https://github.com/drraryyy/drraryyy/blob/main/icon/instagram.svg" alt="instagram" />
   &nbsp;&nbsp;
-<a  href="https://twitter.com/nqbill"> <img width="30px" height = "30px" src="https://github.com/drraryyy/drraryyy/blob/main/icon/twitter.svg" alt="twitter" />
+<a  href="https://twitter.com/nqbill"> <img width="25px" height = "25px" src="https://github.com/drraryyy/drraryyy/blob/main/icon/twitter.svg" alt="twitter" />
   &nbsp;&nbsp;
-<a  href="foooeadonly@gmail.com"> <img width="30px" height = "30px" src="https://github.com/drraryyy/drraryyy/blob/main/icon/gmail.svg" alt="gmail" />
+<a  href="foooeadonly@gmail.com"> <img width="25px" height = "25px" src="https://github.com/drraryyy/drraryyy/blob/main/icon/gmail.svg" alt="gmail" />
   &nbsp;&nbsp;
-<a  href="https://t.me/nqbill"> <img width="30px" height = "30px" src="https://github.com/drraryyy/drraryyy/blob/main/icon/telegram.svg" alt="telegram" />
+<a  href="https://t.me/nqbill"> <img width="25px" height = "25px" src="https://github.com/drraryyy/drraryyy/blob/main/icon/telegram.svg" alt="telegram" />
   &nbsp;&nbsp;
-<a  href="https://discord.gg/EcqDBw7PbB"> <img width="30px" height = "30px" src="https://github.com/drraryyy/drraryyy/blob/main/icon/discord.svg" alt="telegram" />
+<a  href="https://discord.gg/EcqDBw7PbB"> <img width="25px" height = "25px" src="https://github.com/drraryyy/drraryyy/blob/main/icon/discord.svg" alt="telegram" />
 
 </a>
 
 
 </div>  
-
-
-
-<!---
-nqbill/nqbill is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-
-
 
