@@ -76,13 +76,56 @@ class About extends Me {
 <hr></hr>
 
 
-- <img align="center" alt="GIF" src="https://monophy.com/media/LnvIeQ3gDOkjWkTUr5/monophy.gif" width="25" /> &nbsp; I’m interested in **...** <img width="25%" align="right" alt="Github" src="https://64.media.tumblr.com/987a0d155b4030dafd3456a1362242df/tumblr_pzh5uvrMFp1ysu9wlo1_400.gifv" />
+- <img align="center" alt="GIF" src="https://monophy.com/media/LnvIeQ3gDOkjWkTUr5/monophy.gif" width="25" /> &nbsp; I’m interested in **...** <img width="30%" align="right" alt="Github" src="https://i.pinimg.com/originals/ea/59/4f/ea594f8e77884a9f6f096bcd126e2c38.gif" />
 - <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; I’m currently learning **...**
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about **...**
 - <img src="https://github.com/drraryyy/drraryyy/blob/main/img/maillbox.gif?raw=true" width="25" /> &nbsp; How to reach me **...**
 - &nbsp;&nbsp;<img align="center" src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Fun fact **...**
 
 <br><br>
+
+
+
+<div align="center" >
+<a  href="https://github.com/drraryyy">
+    
+<img src="https://raw.githubusercontent.com/nqbill/mycardds/master/profile-summary-card-output/vue/3-stats.svg" width="32.5%">
+<img src="https://raw.githubusercontent.com/nqbill/mycardds/master/profile-summary-card-output/vue/1-repos-per-language.svg" width="32.5%">
+<img src="https://raw.githubusercontent.com/nqbill/mycardds/master/profile-summary-card-output/vue/2-most-commit-language.svg" width="32.5%">
+<img src="https://raw.githubusercontent.com/nqbill/mycardds/master/profile-summary-card-output/vue/4-productive-time.svg" width="32.5%">
+    
+</a>
+    
+<details>
+<summary> <strong> More stats </strong> </summary>
+      
+<img align="center" src="https://raw.githubusercontent.com/nqbill/mycardds/master/profile-summary-card-output/vue/0-profile-details.svg" >
+    
+</details>  
+    
+<img src="https://github.com/nqbill/nqbill/blob/main/img/dino_rounded.gif?raw=true" href="https://github.com/SP-XD" width="750"/><br>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/this_page_is.gif?raw=true"  width="300"/>
+
+<br>
+
+<p> <strong> <em> Connect with me </em> </strong> </p>  
+
+<a  href="https://www.instagram.com/biilll.e"> <img width="30px" height = "30px" src="https://github.com/drraryyy/drraryyy/blob/main/icon/instagram.svg" alt="instagram" />
+  &nbsp;&nbsp;
+<a  href="https://twitter.com/nqbill"> <img width="30px" height = "30px" src="https://github.com/drraryyy/drraryyy/blob/main/icon/twitter.svg" alt="twitter" />
+  &nbsp;&nbsp;
+<a  href="foooeadonly@gmail.com"> <img width="30px" height = "30px" src="https://github.com/drraryyy/drraryyy/blob/main/icon/gmail.svg" alt="gmail" />
+  &nbsp;&nbsp;
+<a  href="https://t.me/nqbill"> <img width="30px" height = "30px" src="https://github.com/drraryyy/drraryyy/blob/main/icon/telegram.svg" alt="telegram" />
+  &nbsp;&nbsp;
+<a  href="https://discord.gg/EcqDBw7PbB"> <img width="30px" height = "30px" src="https://github.com/drraryyy/drraryyy/blob/main/icon/discord.svg" alt="telegram" />
+
+</a>
+
+
+</div>  
+
+
 
 <!---
 nqbill/nqbill is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
