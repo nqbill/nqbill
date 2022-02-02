@@ -9,5 +9,5 @@ nqbill/nqbill is a ✨ special ✨ repository because its `README.md` (this file
 You can click the Preview link to take a look at your changes.
 --->
 
-[![Spotify](https://spotify-readme-nqbill.vercel.app/api/spotify/?background_color=8b0000&border_color=ffffff)](https://open.spotify.com/user/nqbill)
+[![Spotify](https://spotify-readme-nqbill.vercel.app/api/spotify/?background_color=ffffff&border_color=000000)](https://open.spotify.com/user/nqbill)
 
