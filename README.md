@@ -54,6 +54,21 @@
 </p>
 
 
+```javascript
+// tools_I_use 
+class About extends Me { 
+  const myTools = {  
+    "MyLanguages" : { "Javascript", "Java", "PHP", "Python", "Typescript" },
+    "OtherLanguages" : { "C++", "HTML", "CSS", "Bash", "Json", "Nodejs", "Bootstrap", "Tailwind", "Laravel" }
+    "Database" : { "MySQL", "MongoDB", "MariaDB" },
+    "Platforms" : { "Ubuntu/Linux", "Windows" },
+    "Socials" : { "Facebook", "Twitter", "Instagram", "Discord" },
+    "CombatMachine" : { "Vscode", "Heroku", "Photoshop", "Canva", "AdobeIllustrator" }
+  };
+}
+```
+
+
 - 👋 Hi, I’m @nqbill
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
