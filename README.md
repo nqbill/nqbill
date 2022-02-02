@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?color=%23414141&size=40&duration=9000&center=true&width=1500&height=150&lines=Hi+guys!+I'm+nqbill;The+first+letter+%22n%22+is+lowercase%2C+not+uppercase;Imn't+programmer+and+that's+all" />
+<img width="250px" height = "250px" src="https://github.com/nqbill/nqbill/blob/main/img/octo.gif" alt="cover" />
+
+<img src="https://readme-typing-svg.herokuapp.com?color=%23414141&size=40&duration=9000&center=true&width=1500&height=150&lines=Hi+guys!+I'm+nqbill;Imn't+programmer+and+that's+all" />
 
 <p><strong> Unemployed who has a dream
 <br> be in online programming class
@@ -73,7 +75,7 @@ class About extends Me {
 <hr></hr>
 
 
-- <img align="center" alt="GIF" src="https://monophy.com/media/LnvIeQ3gDOkjWkTUr5/monophy.gif" width="25" /> &nbsp; I’m interested in **...** <img width="20%" align="right" alt="Github" src="https://64.media.tumblr.com/987a0d155b4030dafd3456a1362242df/tumblr_pzh5uvrMFp1ysu9wlo1_400.gifv" />
+- <img align="center" alt="GIF" src="https://monophy.com/media/LnvIeQ3gDOkjWkTUr5/monophy.gif" width="25" /> &nbsp; I’m interested in **...** <img width="25%" align="right" alt="Github" src="https://64.media.tumblr.com/987a0d155b4030dafd3456a1362242df/tumblr_pzh5uvrMFp1ysu9wlo1_400.gifv" />
 - <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; I’m currently learning **...**
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about **...**
 - <img src="https://github.com/drraryyy/drraryyy/blob/main/img/maillbox.gif?raw=true" width="25" /> &nbsp; How to reach me **...**
