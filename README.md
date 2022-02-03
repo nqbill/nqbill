@@ -73,7 +73,7 @@ class About extends Me {
 <hr></hr>
 
 
-- <img align="center" alt="GIF" src="https://github.com/nqbill/nqbill/blob/main/img/0e0a54a90658ba6995488a35585642ee.gif?raw=true" width="25" /> &nbsp; I’m currently working on **[Ruang Lingkup](https://github.com/Ruang-Lingkup)** <img width="40%" align="right" alt="Github" src="https://i.pinimg.com/originals/ea/59/4f/ea594f8e77884a9f6f096bcd126e2c38.gif" />
+- <img align="center" alt="GIF" src="https://github.com/nqbill/nqbill/blob/main/img/0e0a54a90658ba6995488a35585642ee.gif?raw=true" width="25" /> &nbsp; I’m currently working on **[Ruang Lingkup](https://github.com/Ruang-Lingkup)** <img width="35%" align="right" alt="Github" src="https://i.pinimg.com/originals/ea/59/4f/ea594f8e77884a9f6f096bcd126e2c38.gif" />
 - <img alt="GIF" src="https://github.com/nqbill/nqbill/blob/main/img/20220203_0116521.gif?raw=true" width="27" /> &nbsp; I’m currently learning **basic programming especially web, front end, back end dev as well as analyzing life and any living things**
 - <img align="center" src="https://cdn.dribbble.com/users/2014359/screenshots/6008279/comment.gif" width="27" />&nbsp;&nbsp; Ask me about **programming(for beginners), philosophy and anything that isn't heavy**
 - <img src="https://github.com/drraryyy/drraryyy/blob/main/img/maillbox.gif?raw=true" width="25" /> &nbsp; How to reach me **[here](https://github.com/nqbill/nqbill/edit/main/README.md#---connect-with-me---)**
@@ -122,4 +122,4 @@ class About extends Me {
 
 </div>
 
-<!--- Thanks --->
+
