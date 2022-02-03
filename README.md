@@ -100,9 +100,7 @@ class About extends Me {
 <img src="https://github.com/nqbill/nqbill/blob/main/img/dino_rounded.gif?raw=true" href="https://github.com/SP-XD" width="750"/><br>
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/this_page_is.gif?raw=true"  width="300"/>
 
-<br>
-
-<p> <strong> <em> Connect with me </em> </strong> </p>  
+<br>  
 
 <a  href="https://www.instagram.com/biilll.e"> <img width="15px" height = "15px" src="https://github.com/nqbill/nqbill/blob/main/icon/instagram.svg" alt="instagram" />
   &nbsp;&nbsp;
