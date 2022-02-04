@@ -1,7 +1,7 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?color=%23414141&size=100&duration=7000&center=true&width=2500&height=250&lines=Hi+<guys/>!;I'm+nqbill;Imn't+programmer+and+that's+all" />
-<img width="250px" height = "250px" src="https://github.com/nqbill/nqbill/blob/main/img/octo.gif" alt="cover" />
+<img src="https://readme-typing-svg.herokuapp.com?color=%23414141&size=100&duration=7000&center=true&width=2500&height=250&lines=Hi+<guys/>!;I'm+nqbill;Imn't+programmer+and+that's+all" /> <br>
+<img width="250px" height = "250px" src="https://github.com/nqbill/nqbill/blob/main/img/octo.gif" alt="cover" /> <br> <br>
 
 <p><strong> Unemployed who has a dream
 <br> be in online programming class
