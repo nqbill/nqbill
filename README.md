@@ -8,7 +8,7 @@
 <br><br> Vibing to : 🎧  </strong></p>
 
 <a href="https://open.spotify.com/user/nqbill">
-  <img src="https://spotify-readme-nqbill.vercel.app/api?rainbow=true&scan=true" alt="Current Spotify Song">
+  <img src="https://spotify-readme-nqbill.vercel.app/api?rainbow=true" alt="Current Spotify Song">
 </a>
 
 </div>
@@ -22,6 +22,8 @@
 <hr></hr>
 
 <p align="left">
+  <img src="https://img.shields.io/badge/-%F0%9F%9A%80%20Tools%20I%20use-orange" />
+  <img src="https://img.shields.io/badge/-%3A-orange" />
   <!--- Programming Languages --->
   <img src="https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white" />
