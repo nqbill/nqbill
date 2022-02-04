@@ -77,13 +77,12 @@ class About extends Me {
 
 <hr></hr>
 
-
 <div align="center" >
 <a  href="https://github.com/drraryyy">
     
-<img src="https://raw.githubusercontent.com/nqbill/mycardds/master/profile-summary-card-output/vue/3-stats.svg" width="32.5%">
-<img src="https://raw.githubusercontent.com/nqbill/mycardds/master/profile-summary-card-output/vue/1-repos-per-language.svg" width="32.5%">
-<img src="https://raw.githubusercontent.com/nqbill/mycardds/master/profile-summary-card-output/vue/2-most-commit-language.svg" width="32.5%">
+<img src="https://raw.githubusercontent.com/nqbill/mycardds/master/profile-summary-card-output/dracula/3-stats.svg" width="32.5%">
+<img src="https://raw.githubusercontent.com/nqbill/mycardds/master/profile-summary-card-output/dracula/1-repos-per-language.svg" width="32.5%">
+<img src="https://raw.githubusercontent.com/nqbill/mycardds/master/profile-summary-card-output/dracula/2-most-commit-language.svg" width="32.5%">
     
 </a>
     
@@ -91,7 +90,7 @@ class About extends Me {
 
 <summary> <strong> More stats </strong> </summary>
       
-<img align="center" src="https://raw.githubusercontent.com/nqbill/mycardds/master/profile-summary-card-output/vue/0-profile-details.svg" >
+<img align="center" src="https://raw.githubusercontent.com/nqbill/mycardds/master/profile-summary-card-output/dracula/0-profile-details.svg" >
     
 </details>
   
