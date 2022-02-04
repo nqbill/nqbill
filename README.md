@@ -7,7 +7,9 @@
 <br> be in online programming class
 <br><br> Vibing to : 🎧  </strong></p>
 
-[![Spotify](https://spotify-readme-nqbill.vercel.app/api?rainbow=true&scan=true)](https://open.spotify.com/user/nqbill)
+<a href="https://open.spotify.com/user/nqbill">
+  <img src="https://spotify-readme-nqbill.vercel.app/api?rainbow=true&scan=true" alt="Current Spotify Song">
+</a>
 
 </div>
 
