@@ -78,7 +78,7 @@ class About extends Me {
 <hr></hr>
 
 <div align="center" >
-<a  href="https://github.com/drraryyy">
+<a  href="https://github.com/nqbill">
     
 <img src="https://raw.githubusercontent.com/nqbill/mycardds/master/profile-summary-card-output/nord_bright/3-stats.svg" width="32.5%">
 <img src="https://raw.githubusercontent.com/nqbill/mycardds/master/profile-summary-card-output/nord_bright/1-repos-per-language.svg" width="32.5%">
