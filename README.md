@@ -7,7 +7,7 @@
 <br> be in online programming class
 <br><br> Vibing to : 🎧  </strong></p>
 
-[![Spotify](https://spotify-readme-nqbill.vercel.app/api/spotify)](https://open.spotify.com/user/nqbill)
+[![Spotify](https://spotify-readme-nqbill.vercel.app/api?rainbow=true&scan=true)](https://open.spotify.com/user/nqbill)
 
 </div>
 
