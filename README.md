@@ -14,6 +14,8 @@
   <img src="https://spotify-readme-nqbill.vercel.app/api?rainbow=true" alt="Current Spotify Song">
 </a>
 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31d3m5boxwdrsk2mqc3p5j7cx6um&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+
 </div>
 
 <img width="35%" align="right" alt="Github" src="https://i.pinimg.com/originals/ea/59/4f/ea594f8e77884a9f6f096bcd126e2c38.gif" />
