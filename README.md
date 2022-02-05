@@ -91,8 +91,7 @@ class Skills extends JuniorDeveloper {
 
 </details>
 
-<img src="https://github.com/nqbill/nqbill/blob/main/img/dino_rounded.gif?raw=true" href="https://github.com/SP-XD" width="750"/><br>
-<img src="https://github.com/nqbill/nqbill/blob/main/img/octo.gif" href="https://github.com/nqbill" alt="github" width="100" /><br><br>
+<img src="https://github.com/nqbill/nqbill/blob/main/img/dino_rounded.gif?raw=true" href="https://github.com/nqbill" width="750"/><br>
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/this_page_is.gif?raw=true"  width="300"/>
 
 <br>  
