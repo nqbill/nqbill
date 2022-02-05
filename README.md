@@ -49,7 +49,7 @@
 </p>
 
 ```javascript
-// about_and_tools_I_use 
+// about_me_and_tools_I_use 
 import JuniorDeveloper from 'nqbill';
 
 class Bio extends JuniorDeveloper {
@@ -107,3 +107,4 @@ class Skills extends JuniorDeveloper {
 </a>
 
 </div>
+
