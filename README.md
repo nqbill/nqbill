@@ -9,7 +9,7 @@
 <br><br> Vibing to : 🎧  </strong></p>
 
 <a href="https://open.spotify.com/user/nqbill">
-  <img src="https://spotify-readme-nqbill.vercel.app/api?rainbow=true" alt="Current Spotify Song">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31d3m5boxwdrsk2mqc3p5j7cx6um&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false" alt="Current Spotify Song">
 </a>
 
 </div>
