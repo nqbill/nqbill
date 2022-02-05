@@ -72,7 +72,7 @@ class Skills extends JuniorDeveloper {
 - <img src="https://github.com/nqbill/nqbill/blob/main/img/book.gif?raw=true" width="27" /> &nbsp; I’m currently learning **basic programming especially web, front end, back end dev as well as analyzing life and any living things**
 - <img src="https://github.com/nqbill/nqbill/blob/main/img/work.gif?raw=true" width="25" align="center" /> &nbsp; I’m currently working on **[Ruang Lingkup](https://github.com/Ruang-Lingkup)** 
 - <img src="https://cdn.dribbble.com/users/2014359/screenshots/6008279/comment.gif" width="27" align="center" />&nbsp;&nbsp; Ask me about **programming(for beginners), philosophy and anything that isn't heavy**
-- <img src="https://github.com/nqbill/nqbill/blob/main/img/maillbox.gif?raw=true" width="25" /> &nbsp; How to reach me **[here](Https://instagram.com/biilll.e) or click social icon at the bottom**
+- <img src="https://github.com/nqbill/nqbill/blob/main/img/maillbox.gif?raw=true" width="25" /> &nbsp; How to reach me **[here](mailto:foooeadonly@gmail.com) or click social icon at the bottom**
 - &ensp; <img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" align="center" /> &ensp; Fun fact **The first computer “bug” was an actual real-life bug**
 
 <div align="center" >
