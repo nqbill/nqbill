@@ -75,8 +75,7 @@ class Skills extends JuniorDeveloper {
 - <img src="https://github.com/nqbill/nqbill/blob/main/img/work.gif?raw=true" width="25" align="center" /> &nbsp; I’m currently working on **[Ruang Lingkup](https://github.com/Ruang-Lingkup)** 
 - <img src="https://cdn.dribbble.com/users/2014359/screenshots/6008279/comment.gif" width="27" align="center" />&nbsp;&nbsp; Ask me about **programming(for beginners), philosophy and anything that isn't heavy**
 - <img src="https://github.com/nqbill/nqbill/blob/main/img/maillbox.gif?raw=true" width="25" /> &nbsp; How to reach me **[here](Https://instagram.com/biilll.e) or click social icon at the bottom**
-- &nbsp; <img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" align="center" /> &ensp; Fun fact **The first computer “bug” was an actual real-life bug**
-
+- &ensp; <img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" align="center" /> &ensp; Fun fact **The first computer “bug” was an actual real-life bug**
 
 <div align="center" >
 <a  href="https://github.com/nqbill">
@@ -89,10 +88,9 @@ class Skills extends JuniorDeveloper {
     
 <details>
 
-<summary> <strong> More stats </strong> </summary>
-      
+<summary> <strong> More stats </strong> </summary>    
 <img align="center" src="https://raw.githubusercontent.com/nqbill/mycardds/master/profile-summary-card-output/nord_bright/0-profile-details.svg" >
-    
+
 </details>
   
 <img src="https://github.com/nqbill/nqbill/blob/main/img/dino_rounded.gif?raw=true" href="https://github.com/SP-XD" width="750"/><br>
@@ -100,18 +98,12 @@ class Skills extends JuniorDeveloper {
 
 <br>  
 
-<a  href="https://www.instagram.com/biilll.e"> <img width="15px" height = "15px" src="https://github.com/nqbill/nqbill/blob/main/icon/instagram.svg" alt="instagram" />
-  &nbsp;&nbsp;
-<a  href="https://twitter.com/nqbill"> <img width="15px" height = "15px" src="https://github.com/nqbill/nqbill/blob/main/icon/twitter.svg" alt="twitter" />
-  &nbsp;&nbsp;
-<a  href="foooeadonly@gmail.com"> <img width="15px" height = "15px" src="https://github.com/nqbill/nqbill/blob/main/icon/gmail.svg" alt="gmail" />
-  &nbsp;&nbsp;
-<a  href="https://t.me/nqbill"> <img width="15px" height = "15px" src="https://github.com/nqbill/nqbill/blob/main/icon/telegram.svg" alt="telegram" />
-  &nbsp;&nbsp;
-<a  href="https://discord.gg/EcqDBw7PbB"> <img width="15px" height = "15px" src="https://github.com/nqbill/nqbill/blob/main/icon/discord.svg" alt="discord" />
+<a  href="https://www.instagram.com/biilll.e"> <img width="15px" height = "15px" src="https://github.com/nqbill/nqbill/blob/main/icon/instagram.svg" alt="instagram" /> &ensp;
+<a  href="https://twitter.com/nqbill"> <img width="15px" height = "15px" src="https://github.com/nqbill/nqbill/blob/main/icon/twitter.svg" alt="twitter" /> &ensp;
+<a  href="foooeadonly@gmail.com"> <img width="15px" height = "15px" src="https://github.com/nqbill/nqbill/blob/main/icon/gmail.svg" alt="gmail" /> &ensp;
+<a  href="https://t.me/nqbill"> <img width="15px" height = "15px" src="https://github.com/nqbill/nqbill/blob/main/icon/telegram.svg" alt="telegram" /> &ensp;
+<a  href="https://discord.gg/EcqDBw7PbB"> <img width="15px" height = "15px" src="https://github.com/nqbill/nqbill/blob/main/icon/discord.svg" alt="discord" /> &ensp;
 
 </a>
 
-
 </div>
-
