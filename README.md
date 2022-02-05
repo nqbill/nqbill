@@ -2,9 +2,9 @@
 
 <br> </br>
 <img src="https://readme-typing-svg.herokuapp.com?color=%23414141&size=250&duration=7000&center=true&width=5000&height=500&lines=Hello+<guys/>!;I'm+nqbill" />
-<br> <br>
-<img width="250px" height = "250px" src="https://github.com/nqbill/nqbill/blob/main/img/octo.gif" alt="cover" />
-<br> <br>
+<br>
+<img width="250px" height = "250px" src="https://github.com/nqbill/nqbill/blob/main/img/me.gif" alt="me" />
+<br>
 
 <p><strong> Unemployed who has a dream
 <br> be in online programming class
@@ -92,8 +92,9 @@ class Skills extends JuniorDeveloper {
 <img align="center" src="https://raw.githubusercontent.com/nqbill/mycardds/master/profile-summary-card-output/nord_bright/0-profile-details.svg" >
 
 </details>
-  
+
 <img src="https://github.com/nqbill/nqbill/blob/main/img/dino_rounded.gif?raw=true" href="https://github.com/SP-XD" width="750"/><br>
+<img src="https://github.com/nqbill/nqbill/blob/main/img/octo.gif" alt="cover" width="100" /><br>
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/this_page_is.gif?raw=true"  width="300"/>
 
 <br>  
