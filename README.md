@@ -2,9 +2,7 @@
 
 <br> </br>
 <img src="https://readme-typing-svg.herokuapp.com?color=%23414141&size=250&duration=7000&center=true&width=5000&height=500&lines=Hello+<guys/>!;I'm+nqbill" />
-<br>
 <img width="250px" height = "250px" src="https://github.com/nqbill/nqbill/blob/main/img/me.gif" alt="me" />
-<br>
 
 <p><strong> Unemployed who has a dream
 <br> be in online programming class
