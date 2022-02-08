@@ -2,7 +2,7 @@
 
 <br> </br>
 <img src="https://readme-typing-svg.herokuapp.com?color=%23414141&size=250&duration=7000&center=true&width=5000&height=500&lines=Hello+<guys/>!;I'm+nqbill" />
-<img width="250px" height = "250px" src="https://github.com/nqbill/nqbill/blob/main/img/me.gif" alt="me" />
+<img src="https://github.com/nqbill/nqbill/blob/main/img/me.gif" width="250px" height = "250px" alt="me" />
 
 <p><strong> Unemployed who has a dream
 <br> be in online programming class
@@ -67,7 +67,7 @@ class Skills extends JuniorDeveloper {
 
 <hr></hr>
 
-<img src="https://64.media.tumblr.com/d1eabf0a2d6cce1fc504cbe04c1f923b/tumblr_n5badtAL9O1r3t765o10_500.gifv" width="35%" align="right" alt="Github" />
+<img src="https://github.com/nqbill/nqbill/blob/main/img/bear.gif?raw=true" width="35%" align="right" alt="Github" />
 
 - <img src="https://github.com/nqbill/nqbill/blob/main/img/book.gif?raw=true" width="27" /> &nbsp; I’m currently learning **basic programming especially web, front end, back end dev as well as analyzing life and any living things**
 - <img src="https://github.com/nqbill/nqbill/blob/main/img/work.gif?raw=true" width="25" align="center" /> &nbsp; I’m currently working on **[Ruang Lingkup](https://github.com/Ruang-Lingkup)** 
