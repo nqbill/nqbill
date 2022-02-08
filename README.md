@@ -76,7 +76,7 @@ class Skills extends JuniorDeveloper {
 - &ensp; <img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" align="center" /> &ensp; Fun fact **The first computer “bug” was an actual real-life bug**
 
 <div align="center" >
-<a  href="https://github.com/nqbill">
+<a href="https://github.com/nqbill">
     
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nqbill&theme=nord_bright" width="32.5%">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nqbill&theme=nord_bright" width="32.5%">
@@ -86,13 +86,15 @@ class Skills extends JuniorDeveloper {
     
 <details>
 
+<a href="https://github.com/nqbill">
 <summary> <strong> More stats </strong> </summary>    
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nqbill&theme=nord_bright" >
 
 </details>
 
-<img src="https://github.com/nqbill/nqbill/blob/main/img/dino_rounded.gif?raw=true" href="https://github.com/nqbill" width="750"/><br>
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/this_page_is.gif?raw=true"  width="300"/>
+<a href="https://github.com/nqbill">
+<img src="https://github.com/nqbill/nqbill/blob/main/img/dino_rounded.gif?raw=true" width="750"/><br>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/this_page_is.gif?raw=true" width="300"/>
 
 <br>  
 
