@@ -61,7 +61,7 @@ class Skills extends JuniorDeveloper {
   languages  = ['JavaScript', 'Typescript', 'Python', 'CSS', 'HTML'];
   databases  = ['MySQL', 'MongoDB', 'MariaDB'];
   frameworks = ['Node.js', 'Bootstrap', 'Tailwind'];
-  mysoftware = ['VS Code', 'Photoshop', 'Lightroom', 'Canva']
+  mysoftware = ['VSCode', 'Photoshop', 'Lightroom', 'Canva']
 }
 ```
 
