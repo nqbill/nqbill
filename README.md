@@ -8,9 +8,12 @@
 <br> be in online programming class
 <br><br> Vibing to : 🎧  </strong></p>
 
-<a href="https://open.spotify.com/user/nqbill">
-  <img src="https://spotifyreadme.herokuapp.com/api/spotify" alt="Current Spotify Song">
+<a href="https://readmemore.vercel.app/api/now-playing?open">
+    <img src="https://readmemore.vercel.app/api/now-playing">
+<br>
+    <img src="https://readmemore.vercel.app/api/top-played">
 </a>
+<i>inspired by <a href="https://github.com/natemoo-re">natemoo-re</a></i>
 
 </div>
 
