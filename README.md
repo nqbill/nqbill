@@ -80,9 +80,9 @@ class Skills extends JuniorDeveloper {
 <div align="center" >
 <a href="https://github.com/nqbill">
     
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nqbill&theme=nord_bright" width="32.5%">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nqbill&theme=nord_bright" width="32.5%">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nqbill&theme=nord_bright" width="32.5%">
+<img src="https://raw.githubusercontent.com/nqbill/githubstats/master/profile-summary-card-output/nord_bright/3-stats.svg" width="32.5%">
+<img src="https://raw.githubusercontent.com/nqbill/githubstats/master/profile-summary-card-output/nord_bright/1-repos-per-language.svg" width="32.5%">
+<img src="https://raw.githubusercontent.com/nqbill/githubstats/master/profile-summary-card-output/nord_bright/2-most-commit-language.svg" width="32.5%">
     
 </a>
     
@@ -90,7 +90,7 @@ class Skills extends JuniorDeveloper {
 
 <summary> <strong> More stats </strong> </summary>
 <a href="https://github.com/nqbill">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nqbill&theme=nord_bright" >
+<img src="https://raw.githubusercontent.com/nqbill/githubstats/master/profile-summary-card-output/nord_bright/0-profile-details.svg" >
 
 </details>
 
