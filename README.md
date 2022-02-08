@@ -67,7 +67,7 @@ class Skills extends JuniorDeveloper {
 
 <hr></hr>
 
-<img width="25%" align="right" alt="Github" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_632/fd087753448477.5935586c4d722.gif" />
+<img src="https://64.media.tumblr.com/d1eabf0a2d6cce1fc504cbe04c1f923b/tumblr_n5badtAL9O1r3t765o10_500.gifv" width="35%" align="right" alt="Github" />
 
 - <img src="https://github.com/nqbill/nqbill/blob/main/img/book.gif?raw=true" width="27" /> &nbsp; I’m currently learning **basic programming especially web, front end, back end dev as well as analyzing life and any living things**
 - <img src="https://github.com/nqbill/nqbill/blob/main/img/work.gif?raw=true" width="25" align="center" /> &nbsp; I’m currently working on **[Ruang Lingkup](https://github.com/Ruang-Lingkup)** 
