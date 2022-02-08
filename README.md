@@ -9,7 +9,7 @@
 <br><br> Vibing to : 🎧  </strong></p>
 
 <a href="https://open.spotify.com/user/nqbill">
-    <img src="https://now-playing-nqbill.vercel.app/api?rainbow=true" height="40%" width="40%">
+    <img src="https://now-playing-nqbill.vercel.app/api?rainbow=true" height="75%" width="75%">
 </a>
 
 </div>
