@@ -86,8 +86,8 @@ class Skills extends JuniorDeveloper {
     
 <details>
 
+<summary> <strong> More stats </strong> </summary>
 <a href="https://github.com/nqbill">
-<summary> <strong> More stats </strong> </summary>    
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nqbill&theme=nord_bright" >
 
 </details>
