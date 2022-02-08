@@ -75,6 +75,8 @@ class Skills extends JuniorDeveloper {
 - <img src="https://github.com/nqbill/nqbill/blob/main/img/maillbox.gif?raw=true" width="25" /> &nbsp; How to reach me **[here](mailto:foooeadonly@gmail.com) or click social icon at the bottom**
 - &ensp; <img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" align="center" /> &ensp; Fun fact **The first computer “bug” was an actual real-life bug**
 
+<br>
+
 <div align="center" >
 <a href="https://github.com/nqbill">
     
