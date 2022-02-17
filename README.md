@@ -109,7 +109,7 @@ class Skills extends JuniorDeveloper {
 </details>
 
 <a href="https://github.com/nqbill">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThYO__mTmKugltU6sRm5RQoA0qQ_MOAawM1Q&usqp=CAU" width="750"/>
+<img src="https://github.com/nqbill/nqbill/blob/main/src/img/super-kid.gif?raw=true" width="750"/>
 <img src="https://readme-typing-svg.herokuapp.com?color=%23363636&size=35&duration=7000&center=true&vCenter=true&width=1000&lines=This+page+is+best+viewed+with+dark+mode+off" width="60%" />
 
 </div>
