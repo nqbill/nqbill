@@ -54,6 +54,7 @@
   
   <!--- mysoftware --->
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=flat&logo=adobe%20illustrator&logoColor=white" />
   <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat&logo=Adobe%20Photoshop&logoColor=black" />
   <img src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=flat&logo=Adobe%20Lightroom&logoColor=white" />
   <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=flat&logo=Canva&logoColor=white" />
@@ -75,7 +76,7 @@ class Skills extends JuniorDeveloper {
   languages  = ['JavaScript', 'Typescript', 'Python', 'CSS', 'HTML'];
   databases  = ['MySQL', 'MongoDB', 'MariaDB'];
   frameworks = ['Node.js', 'Bootstrap', 'Tailwind'];
-  mysoftware = ['VSCode', 'Photoshop', 'Lightroom', 'Canva']
+  mysoftware = ['VSCode', 'Illustrator', 'Photoshop', 'Lightroom', 'Canva']
 }
 ```
 
@@ -83,9 +84,9 @@ class Skills extends JuniorDeveloper {
 
 <img src="https://github.com/nqbill/nqbill/blob/main/src/img/walk.gif?raw=true" width="26%" align="right" alt="Github" />
 
-- <img src="https://github.com/nqbill/nqbill/blob/main/src/img/book.gif?raw=true" width="27" /> &nbsp; I’m currently learning **basic programming especially web, front end, back end dev as well as analyzing life and any living things**
+- <img src="https://github.com/nqbill/nqbill/blob/main/src/img/book.gif?raw=true" width="27" /> &nbsp; I’m currently learning **web dev, motion graphic and discord bot dev**
 - <img src="https://github.com/nqbill/nqbill/blob/main/src/img/work.gif?raw=true" width="25" align="center" /> &nbsp; I’m currently working on **[Ruang Lingkup](https://github.com/Ruang-Lingkup)** 
-- <img src="https://github.com/nqbill/nqbill/blob/main/src/img/comment.gif?raw=true" width="27" align="center" />&nbsp;&nbsp; Ask me about **programming(for beginners), philosophy and anything that isn't heavy**
+- <img src="https://github.com/nqbill/nqbill/blob/main/src/img/comment.gif?raw=true" width="27" align="center" />&nbsp;&nbsp; Ask me about **basic programming, philosophy, graphic design and discord**
 - <img src="https://github.com/nqbill/nqbill/blob/main/src/img/maillbox.gif?raw=true" width="25" /> &nbsp; How to reach me **[here](mailto:foooeadonly@gmail.com) or click the icon above**
 - &ensp; <img src="https://github.com/nqbill/nqbill/blob/main/src/img/lightning.gif?raw=true" width="12" align="center" /> &ensp; Fun fact **The first computer “bug” was an actual real-life bug**
 
