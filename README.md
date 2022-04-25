@@ -18,8 +18,8 @@
 
 <br>
 
-<p><strong> Unemployed who has a dream
-<br> be in online programming class
+<p><strong> a nolep boy who has dreams
+<br> listens to lofi playlists and coding at night
 <br><br> Vibing to : 🎧  </strong></p>
 
 <a href="https://open.spotify.com/user/nqbill">
