@@ -18,7 +18,7 @@
 
 <br>
 
-<p><strong> a nolep boy who has dreams
+<p><strong> a nolep boy who has dreams,
 <br> listens to lofi playlists and coding at night
 <br><br> Vibing to : 🎧  </strong></p>
 
@@ -82,7 +82,7 @@ class Skills extends JuniorDeveloper {
 
 <hr></hr>
 
-<img src="https://github.com/nqbill/nqbill/blob/main/src/img/walk.gif?raw=true" width="26%" align="right" alt="Github" />
+<img src="https://github.com/nqbill/nqbill/blob/main/src/img/walk.gif?raw=true" width="15%" align="right" alt="Github" />
 
 - 🔭 I’m currently working on **[Homely](https://github.com/homelyy)** 
 - 📚 I’m currently learning **web dev, motion graphic and discord bot**
@@ -110,7 +110,7 @@ class Skills extends JuniorDeveloper {
 </details>
 
 <a href="https://github.com/nqbill">
-<img src="https://raw.githubusercontent.com/nqbill/nqbill/d789ec981b133425f62eb0259d589d92f8b19ce1/src/img/snake.svg" width="750"/>
+<img src="https://raw.githubusercontent.com/nqbill/nqbill/d789ec981b133425f62eb0259d589d92f8b19ce1/src/img/snake.svg" width="1000"/> <br> <br>
 <img src="https://readme-typing-svg.herokuapp.com?color=%23363636&size=35&duration=7000&center=true&vCenter=true&width=1000&lines=This+page+is+best+viewed+with+dark+mode+off" width="60%" />
 
 </div>
