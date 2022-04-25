@@ -36,7 +36,7 @@
         a nolep boy who has dreams,
       <br>
         listens to lofi playlists and coding at night
-      <br><br>
+      <br>
         Vibing to : 🎧
     </strong>
 </p>
