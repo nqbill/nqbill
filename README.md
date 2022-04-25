@@ -22,8 +22,8 @@
 <br> listens to lofi playlists and coding at night
 <br><br> Vibing to : 🎧  </strong></p>
 
-<a href="https://open.spotify.com/user/lacosta">
-    <img src="http://now-playing-nqbill.vercel.app/api?rainbow=true" width="50%">
+<a href="https://open.spotify.com/user/nqbill">
+    <img src="https://spotifyreadme.herokuapp.com/api/spotify" />
 </a>
 
 </div>
