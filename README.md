@@ -87,7 +87,7 @@ class Skills extends JuniorDeveloper {
 - 🔭 I’m currently working on **[Homely](https://github.com/homelyy)** 
 - 📚 I’m currently learning **web dev, motion graphic and discord bot**
 - 💭 Ask me about **philosophy, graphic design and discord**
-- 📬 How to reach me **[here](mailto:foooeadonly@gmail.com) or click the icon above**
+- 📬 Reach me **[here](mailto:foooeadonly@gmail.com) or click icons above**
 - ⚡ Fun fact **The first computer “bug” was an actual real-life bug**
 
 <br>
