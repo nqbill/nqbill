@@ -67,7 +67,7 @@ import JuniorDeveloper from 'nqbill';
 
 class Bio extends JuniorDeveloper {
   name     = 'Ahmad Nabil';
-  title    = 'Student';
+  title    = 'Freelancer';
   company  = 'Homely';
   location = 'Jakarta, ID';
 }
@@ -86,7 +86,7 @@ class Skills extends JuniorDeveloper {
 
 - <img src="https://github.com/nqbill/nqbill/blob/main/src/img/book.gif?raw=true" width="27" /> &nbsp; I’m currently learning **web dev, motion graphic and discord bot**
 - <img src="https://github.com/nqbill/nqbill/blob/main/src/img/work.gif?raw=true" width="25" align="center" /> &nbsp; I’m currently working on **[Homely](https://github.com/homelyy)** 
-- <img src="https://github.com/nqbill/nqbill/blob/main/src/img/comment.gif?raw=true" width="27" align="center" />&nbsp;&nbsp; Ask me about **basic programming, philosophy, graphic design and discord**
+- <img src="https://github.com/nqbill/nqbill/blob/main/src/img/comment.gif?raw=true" width="27" align="center" />&nbsp;&nbsp; Ask me about **philosophy, graphic design and discord**
 - <img src="https://github.com/nqbill/nqbill/blob/main/src/img/maillbox.gif?raw=true" width="25" /> &nbsp; How to reach me **[here](mailto:foooeadonly@gmail.com) or click the icon above**
 - &ensp; <img src="https://github.com/nqbill/nqbill/blob/main/src/img/lightning.gif?raw=true" width="12" align="center" /> &ensp; Fun fact **The first computer “bug” was an actual real-life bug**
 
