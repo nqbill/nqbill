@@ -31,9 +31,15 @@
 
 <br><br>
 
-<p><strong> a nolep boy who has dreams,
-<br> listens to lofi playlists and coding at night
-<br><br> Vibing to : 🎧  </strong></p>
+<p>
+    <strong>
+        a nolep boy who has dreams,
+      <br>
+        listens to lofi playlists and coding at night
+      <br><br>
+        Vibing to : 🎧
+    </strong>
+</p>
 
 <a href="https://open.spotify.com/user/nqbill">
     <img src="https://spotifyreadme.herokuapp.com/api/spotify" width="50%" />
