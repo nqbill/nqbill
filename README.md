@@ -23,7 +23,7 @@
 <br><br> Vibing to : 🎧  </strong></p>
 
 <a href="https://open.spotify.com/user/nqbill">
-    <img src="https://now-play.vercel.app/api/generate?uid=97c7a9a7-5860-49a6-98d8-4c9fdd7dce1f" width="50%" />
+    <img src="https://spotifyreadme.herokuapp.com/api/spotify" width="50%" />
 </a>
 
 </div>
