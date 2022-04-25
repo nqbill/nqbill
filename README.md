@@ -16,7 +16,7 @@
   <a href="https://t.me/nqbill">
     <img width="20px" height="20px" src="https://github.com/nqbill/nqbill/blob/main/src/icon/telegram.png" alt="telegram" /> &nbsp;
   </a>
-  <a href="https://discord.gg/EcqDBw7PbB">
+  <a href="https://discord.gg/homely">
     <img width="20px" height="20px" src="https://github.com/nqbill/nqbill/blob/main/src/icon/discord.png" alt="discord" /> &nbsp;
   </a>
   <a href="https://dev.to/nqbill">
@@ -29,7 +29,7 @@
     <img width="20px" height="20px" src="https://github.com/nqbill/nqbill/blob/main/src/icon/coffee.jpg" alt="buymecoffee" /> &nbsp;
   </a>
 
-<br>
+<br><br>
 
 <p><strong> a nolep boy who has dreams,
 <br> listens to lofi playlists and coding at night
