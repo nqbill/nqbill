@@ -26,6 +26,8 @@
     <img src="https://spotifyreadme.herokuapp.com/api/spotify" width="50%">
 </a>
 
+&nbsp; **_Inspired by [Somnath Paul](https://github.com/SP-XD)_**
+ 
 </div>
 
 <hr></hr>
